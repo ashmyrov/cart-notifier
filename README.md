@@ -175,13 +175,6 @@ POST /api/v1/carts
 ##### Request
 ```http request
 GET /api/v1/carts
-
-{
-    "customer": 1,
-    "products": [
-        3
-    ]
-}
 ```
 ##### Response
 
